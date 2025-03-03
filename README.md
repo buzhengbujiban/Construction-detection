@@ -60,7 +60,7 @@ flowchart LR
 
 #### 数据库概览图
 
-![概览图](./static/picture/resultPic.png)
+![概览图](./static/images/resultPic.png)
 
 - **echart4**：存储与时间趋势相关的数据，每个条目都包含多个字段（如 `name`, `value`）。
 - **counter**：用于存储各类计数器（进度、质量等）的数据。
