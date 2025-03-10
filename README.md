@@ -27,17 +27,17 @@ flowchart LR
 
 ## 项目结构
 
-├── app.py # 主程序入口（Flask后端）
-├── data.py 
-├── models.py # 后端数据库交互模型 
-├── templates/ 
-│ ├── index.html # 前端页面模板 
-├── static/ 
-│ ├── css/ # 样式文件 
-│ ├── js/ # JavaScript文件 
-│ ├── picture/ # 图片资源 
-├── requirements.txt # 项目依赖 
-├── README.md # 项目文档
+- ├── app.py # 主程序入口（Flask后端）
+- ├── data.py 
+- ├── models.py # 后端数据库交互模型 
+- ├── templates/ 
+- │ ├── index.html # 前端页面模板 
+- ├── static/ 
+- │ ├── css/ # 样式文件 
+- │ ├── js/ # JavaScript文件 
+- │ ├── picture/ # 图片资源 
+- ├── requirements.txt # 项目依赖 
+- ├── README.md # 项目文档
 
 
 ---
